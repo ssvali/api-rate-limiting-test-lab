@@ -161,3 +161,12 @@ BUILD SUCCESS
 This repository is part of a practical API testing learning series focused on validating behavior beyond successful API responses.
 
 The emphasis is on testing API contracts, boundary conditions, throttling behavior, and concurrency—not simply generating HTTP requests.
+
+
+## Related Article
+
+**API Rate Limiting Testing: What Happens When Clients Exceed the Limit?**
+
+Read the accompanying article on Medium:
+
+[Read the article](https://medium.com/@sha.jamdar/api-rate-limiting-testing-what-happens-when-clients-exceed-the-limit-b4f021c3fe8d)
